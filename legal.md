@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Privacy Policy
+layout: page
 background: grey
 ---
 
